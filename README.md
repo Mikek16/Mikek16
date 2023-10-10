@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=8EBB62/?lines=Michael+Krause;Dickinson+C.S.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=2DA959/?lines=Michael+Krause;Dickinson+C.S.)](https://git.io/typing-svg)
 
 <!--
 **Mikek16/Mikek16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
